@@ -19,7 +19,4 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'bundler',    '~> 1.10'
   gem.add_development_dependency 'rake',       '~> 10.0'
   gem.add_development_dependency 'minitest',   '~> 5.10'
-  gem.add_development_dependency 'webmock',    '~> 1.24'
-  gem.add_development_dependency 'vcr',        '~> 3.0'
-  gem.add_development_dependency 'pry-byebug', '~> 3.4'
 end
